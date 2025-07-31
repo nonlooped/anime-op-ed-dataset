@@ -1,12 +1,12 @@
 # 📊 Anime OP/ED Dataset
 
-A structured dataset of **Anime Openings (OP) and Endings (ED)** with YouTube metadata, covering the **top \~900 anime** from MyAnimeList.
+A structured dataset of **Anime Openings (OP) and Endings (ED)** with YouTube metadata, covering the **top \~1000 anime** from MyAnimeList.
 Each entry includes detailed song, artist, anime, and YouTube video information in JSON format.
 
 
 ## 📦 Dataset Overview
 
-* **Anime Coverage** → \~900 anime titles from MyAnimeList's top rankings.
+* **Anime Coverage** → \~1000 anime titles from MyAnimeList's top rankings.
 * **Themes Covered** → All openings & endings for each anime (including multiple seasons / theme changes).
 * **Data Source** → Combined from AnimeThemes.moe, public MyAnimeList data, and scraped YouTube metadata.
 * **File Format** → JSON array.
