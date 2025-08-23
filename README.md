@@ -1,4 +1,4 @@
-# 📊 Anime OP/ED Dataset
+# Anime OP/ED Dataset 🎶 | 1,000+ Anime Openings & Endings w/ Metadata
 
 A structured dataset of **Anime Openings (OP) and Endings (ED)** with YouTube metadata, covering the **top \~1000 anime** from MyAnimeList.
 Each entry includes detailed song, artist, anime, and YouTube video information in JSON format.
